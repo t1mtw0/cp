@@ -12,7 +12,6 @@ int solve() {
         std::cin >> r[i];
     }
     long long s = 0;
-
 }
 
 int main() {
